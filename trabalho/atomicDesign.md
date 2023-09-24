@@ -11,8 +11,8 @@ O Atomic Design é dividido em cinco componentes que trabalham juntos com o intu
     - Páginas 
 
 #### Átomos 
-
-São blocos de construção básicos da matéria que formam a interface. ExemploÇ um label isolado é um átomo, um input é um átomo, um button é um átomo...
+s
+São blocos de construção básicos da matéria que formam a interface. Exemplo um label isolado é um átomo, um input é um átomo, um button é um átomo...
 
 #### Moléculas 
 
