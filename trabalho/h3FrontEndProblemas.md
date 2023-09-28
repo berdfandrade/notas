@@ -182,6 +182,3 @@ Estou tendo problemas com as dependências, e as testando para ver de onde vem o
 O problema era, de certa forma simples de resolver porque nossa aplicação estava pequena ainda. Aquilo é um erro um pouco complexo para se resolver no Next.JS... Porque, é um erro sem logs, e sem uma causa aparente muito óbvia ( isso é o que foi dito no stackOverflow). Por tanto, caso a aplição fosse grande. Teríamos problemas, pois precisaríamos testar todos os componentes que estão lá. 
 
 Mas como a aplicação é pequena, não tive que testar tantas coisas. E acabei descobrindo que o erro era no componente `Body.tsx`. Algo nele não está correto. E o que eu preciso fazer, é investigar se isso tem a ver de alguma forma com as bibliotecas front-end da h3aven. 
-
-Parece que não é isso... e se eu não fizer nada nada, talvez eu pareça um pouco descomprometivo. 
-
