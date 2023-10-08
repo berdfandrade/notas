@@ -14,4 +14,10 @@ Since JavaScript works well with HTML5 canvas, you'll often see physics applied 
 
 Processing is the main reason to move from a well-tested, robust library to a home-grown, concise solution. The processing to be concerned about is called _CPU utilization_. CPU utilization is the amount of processing that's avaible, or that's being used, during your program's of game's runtime. Physics engines can take up as much CPU processing as the other parts of your game. Simpler choices mean less CPU utilization.
 
-When running games, you typically aim for a target of 30-60 frames per second, which means your game's loop must fit within 33-16 milliseconds. The example CPU utilization loop steps showns an example. When a more complex solution is followed.
+When running games, you typically aim for a target of 30-60 frames per second, which means your game's loop must fit within 33-16 milliseconds. The example CPU utilization loop steps showns an example. When a more complex solution is followed., it means compromising other features that may take uo some of the CPU utilization of your game. Shaving off COU usage from any of your game components, whenever possible, helps in the long run.
+
+#### Example CPU utilization loop step
+
+https://s3.us.cloud-object-storage.appdomain.cloud/developer/default/tutorials/wa-build2dphysicsengine/images/fig01.gif
+
+
