@@ -2,6 +2,8 @@
 
 link: https://developer.ibm.com/tutorials/wa-build2dphysicsengine/
 
+- ONDE ESTOU: Entity JavaScript object - O código dessa parte já foi copiado
+
 ### Introduction 
 
 2D games come in many different shapes and sizes. In some cases, building your own 2D physics engine, which provides an approximate simulation of systems such as collision detection, is a good choice — especially when using JavaScript. Developing a robust physics engine for any platform is difficult, but often a simpler, concise engine is more suitable. If you're in need of a slimmed-down version of a popular physics engine, building one from scratch, without all the bells and whistles, can get the job done efficiently.
