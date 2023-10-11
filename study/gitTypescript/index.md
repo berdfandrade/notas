@@ -50,5 +50,3 @@ Let's start configuring our project with some dependencies
 }
 ```
 
-C
-
