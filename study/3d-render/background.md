@@ -21,4 +21,10 @@ https://avikdas.com/build-your-own-raytracer/img/wikimedia-raytraced.png
 
 However, this simulation is slow. An alternate approach is *rasterization*. In this approach, we first *project* the geometry onto the image plane, then work directly on the perspective-corrected representation of the geometry. This approach can be implemented more efficiently, but at the cost of increased complexity. Global illumanation effects need to be special-cased one by one, often requiring multiple rendering passes and pre-computation ("baking")
 
+https://avikdas.com/build-your-own-raytracer/img/rasterization.png
+
+Ray tracing is usually used for offline rendering, such as in Pixal films and rasterization for realtime graphics, such as games. The latter is the approach used bu GPUs.
+
+In this course, we will focus on ray focus on ray tracing. It closely mirrors the intuition we have about how light interacts with the world, and we can avoid the more complicated math in the initial stages of development. This lets us build up out renderer in small pieces. The concepts we will use are foundation, so they carry over to real-time rendering techniques, which approximate the same light transport in different ways. 
+
 
