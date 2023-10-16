@@ -5,6 +5,7 @@ A CPU is a machine built to execute a program. The fundamental blocks of a CPU a
 ```c
 unsigned char A, B, C, D, E; 
 ```
+
 CPUS also all have a Program Counter (PC). You can think of this as a pointer.
 
 ```c 

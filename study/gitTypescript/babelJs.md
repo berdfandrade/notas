@@ -16,6 +16,6 @@ Aqui estão alguns dos principais recursos e funcionalidades do Babel:
 
 5 - *Integração com Ferramentas de Desenvolvimento*: Babel é frequentemente usado em conjunto com outras ferramentas de desenvolvimento, como bundlers (por exemplo, Webpack), linters (por exemplo, ESLint), e frameworks front-end (por exemplo, React). Essas ferramentas podem ser configuradas para usar Babel para transpilação, tornando-o uma parte fundamental do fluxo de trabalho de desenvolvimento web. 
 
-Em resumo o Babel é uma ferramenta essencial para desenvolvedores web que desejam escrever código JavaScript moderno e manter a compatibilidade com navegadores mais antigos. Ele desenpenha um papel fundamental no desenvolvimento web moderno, permitindo que os desenvolvedores aproveitem as vantagens das útimas melhorias na linguagem JavaScript. 
+Em resumo o Babel é uma ferramenta essencial para desenvolvedores web que desejam escrever código JavaScript moderno e manter a compatibilidade com navegadores mais antigos. Ele desempenha um papel fundamental no desenvolvimento web moderno, permitindo que os desenvolvedores aproveitem as vantagens das últimas melhorias na linguagem JavaScript. 
 
 
