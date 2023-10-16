@@ -1,6 +1,6 @@
 # Sobre o Babel Js
 
-Babel é uma ferramenta popula no ecossistema de desenvolvimento web, especialmente no contexto do JavaScript. Ela é um compilador de código de JavaScript que permite aos desenvolvedores escrever códio em uma versão mais recente do javascript (geralmente chamada de ECMAScript 6, ES6, ou ES2015 em diante) e, em seguida, transformá-lo em código JavaScript compatível com versões mais antigas dos navegadores.
+Babel é uma ferramenta popular no ecossistema de desenvolvimento web, especialmente no contexto do JavaScript. Ela é um compilador de código de JavaScript que permite aos desenvolvedores escrever códio em uma versão mais recente do javascript (geralmente chamada de ECMAScript 6, ES6, ou ES2015 em diante) e, em seguida, transformá-lo em código JavaScript compatível com versões mais antigas dos navegadores.
 
 A principal finalidade do Babel é possibilitar o uso de recursos e sintaxes mais recentes da linguagem JavaScript, mesmo em navegadores que não suportam essas funcionalidades. Isso ajuda os desenvolvedores a escrever código mais limpo e legível e eficiente, aproveitando as melhorias introduzidas nas versões mais recentes do javascript.
 
