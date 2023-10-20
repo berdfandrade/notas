@@ -20,3 +20,4 @@ Hoje eu tentei criar algo, e consegui criar um editor de texto com algo parecido
 
 
 
+ cho que talvez eu tenha encontrado uma solução? Achei o parser do foutain que "cospe" o roteiro parseado para HTML. Encontrei também um .css que parece ser o css do fountain, ou uma cópia dele... Posso tentar implementar isso depois
