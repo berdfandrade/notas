@@ -122,3 +122,29 @@ Below is a small smaple of the `tokens` output from *Brick & Steel:*
 ]
 
 ```
+
+#### Inline Lexing 
+
+Originally, the text within tokens would have their inline markup, e.g emphasis, underine, or line breaks, converted to HTML; however, given some use cases, this is not pratical for all library users. 
+
+A of version 1.1.2, any inline markup will remain *unchanged* in the token text.
+
+```javascript
+[
+  ...
+  { type: 'action', text: 'Screaming, chaos, *frenzy*.\nThree words that apply to this scene.' },
+  ...
+]
+```
+
+This means you'll have to perform an inline lex on the token text when processing your tokens.
+
+As a suggestion, one can import and extend the `InineLexer` class. Its `inline` property and `reconstruct` methods can be overwritten and modified to suit your needs if something other than HTML output is desired. 
+
+## Fountain,ts
+
+For those looking for Foutain.ts, please note that this package has been deprecated in its original form and is now Fountain-js. Please source and upgrade packages from the *Fountain-js NPM package* to receive all updates and fixes. 
+
+
+
+
