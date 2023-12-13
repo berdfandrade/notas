@@ -47,3 +47,5 @@ O PostgreSQL suporta configurações de replicacação para alta disponibilidade
 Além de dados estruturados, o PostgreSQL oferece suporte a dados semi-estruturados e não estruturados por meio de tipos de dados como JSON e hstore. 
 
 Em resumo, o PostgreSQL é um sistema de gerenciamento de banco de dados relacional que oferece uma ampla gama de recursos para armazenar e gerenciar dados de maneira eficiente, segura e escalável. É amplamente utilizado em várias aplicações, desde pequenos projetos de código aberto até grandes empresas e organizações. 
+
+O PostgreSQL possui uma sintaxe semelhante ao MySQL, mas não é a mesma; 
